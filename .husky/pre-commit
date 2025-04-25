@@ -2,4 +2,3 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 pnpm run lint:format
-#npx lint-staged # 只检查暂存的文件
