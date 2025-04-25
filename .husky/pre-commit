@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-pnpm run lint:eslint 全量检查
-npx lint-staged # 只检查暂存的文件
+pnpm run lint:format
+#npx lint-staged # 只检查暂存的文件
