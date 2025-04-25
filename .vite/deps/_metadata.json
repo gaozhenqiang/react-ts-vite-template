@@ -1,8 +1,55 @@
 {
-  "hash": "becc6a63",
+  "hash": "23358160",
   "configHash": "48077dff",
-  "lockfileHash": "24f5e1f1",
-  "browserHash": "66ec3a50",
-  "optimized": {},
-  "chunks": {}
+  "lockfileHash": "7bd71978",
+  "browserHash": "ee87ca97",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/.pnpm/react@19.1.0/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "a56603d3",
+      "needsInterop": true
+    },
+    "react-dev-inspector": {
+      "src": "../../node_modules/.pnpm/react-dev-inspector@2.0.1_@types+react@19.1.2_eslint@8.57.1_react@19.1.0_typescript@5.8.3_webpack@5.96.1/node_modules/react-dev-inspector/es/index.js",
+      "file": "react-dev-inspector.js",
+      "fileHash": "7a1aac9b",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/.pnpm/react-dom@19.1.0_react@19.1.0/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "6cd80ba8",
+      "needsInterop": true
+    },
+    "react-router/dom": {
+      "src": "../../node_modules/.pnpm/react-router@7.5.1_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/react-router/dist/development/dom-export.mjs",
+      "file": "react-router_dom.js",
+      "fileHash": "f8d4fe13",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/.pnpm/react@19.1.0/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "5a6aa867",
+      "needsInterop": true
+    },
+    "react-router": {
+      "src": "../../node_modules/.pnpm/react-router@7.5.1_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/react-router/dist/development/index.mjs",
+      "file": "react-router.js",
+      "fileHash": "ce0ad196",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-DI7N7KXP": {
+      "file": "chunk-DI7N7KXP.js"
+    },
+    "chunk-VIDXDYL5": {
+      "file": "chunk-VIDXDYL5.js"
+    },
+    "chunk-K2U3W6PN": {
+      "file": "chunk-K2U3W6PN.js"
+    }
+  }
 }
